@@ -1,2 +1,3 @@
 # CALCULADORA
- Primeiro projeto feito em aula
+ Primeiro projeto HTML,CSS e JavaScript
+ Feito em aula no youtube
